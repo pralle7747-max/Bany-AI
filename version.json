@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "url": "https://raw.githubusercontent.com/pralle7747-max/Bany-AI/main/app_new.exe"
 }
 import os
@@ -523,7 +523,7 @@ class AetherOSAssistant(ctk.CTk):
         brand_frame = ctk.CTkFrame(self.sidebar_frame, fg_color="transparent")
         brand_frame.grid(row=0, column=0, padx=15, pady=(20, 10), sticky="w")
 
-        self.logo_label = ctk.CTkLabel(brand_frame, text="✨ Bany Stinkt AI", font=("Arial", 18, "bold"), text_color="#FFE01B")
+        self.logo_label = ctk.CTkLabel(brand_frame, text="✨ Bany AI", font=("Arial", 18, "bold"), text_color="#FFE01B")
         self.logo_label.pack(side="left")
 
         self.sublogo_label = ctk.CTkLabel(brand_frame, text=" by Aether", font=("Arial", 11), text_color="#888888")
