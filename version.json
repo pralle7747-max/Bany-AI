@@ -1,5 +1,5 @@
 {
-  "version": "3.3.2",
-  "url": "https://github.com/pralle7747-max/Bany-AI/releases/download/v3.3.2/JarvisAgent.exe",
-  "notes": "Fix: Selbst-Update ersetzt jetzt zuverlaessig. WICHTIG fuer Versionen unter 3.3.2: einmalig bitte MANUELL laden unter github.com/pralle7747-max/Bany-AI/releases (alte Version kann sich nicht selbst reparieren). Danach geht alles automatisch."
+  "version": "3.3.3",
+  "url": "https://github.com/pralle7747-max/Bany-AI/releases/download/v3.3.3/JarvisAgent.exe",
+  "notes": "NEU v3.3.3: VIP-System mit 11 Features (AetherCode, Power, Provider-Multi, Live ohne Limit, Wake-Word, HD-Bilder 1024px, Aufgaben-Pro, Dashboard, HTML-Export, Barge-in, Merkzettel-Pro) per Code in Einstellungen -> KI & Keys. Dynamic Island mit Roboter-Gesicht (gruebelt je nach Schwere). Start 2x schneller: cleaner Splash (1.2s) + Lazy-Load (Tray/Hotkey/Overlay nach Start)."
 }
