@@ -1,5 +1,5 @@
 {
-  "version": "3.3.1",
-  "url": "https://github.com/pralle7747-max/Bany-AI/releases/download/v3.3.1/JarvisAgent.exe",
-  "notes": "Neu: Auto-Dimmen (Bildschirmschoner mit Uhr, fast 0 CPU) + scrollbares Einstellungs-Fenster."
+  "version": "3.3.2",
+  "url": "https://github.com/pralle7747-max/Bany-AI/releases/download/v3.3.2/JarvisAgent.exe",
+  "notes": "Fix: Selbst-Update ersetzt jetzt zuverlaessig. WICHTIG fuer Versionen unter 3.3.2: einmalig bitte MANUELL laden unter github.com/pralle7747-max/Bany-AI/releases (alte Version kann sich nicht selbst reparieren). Danach geht alles automatisch."
 }
